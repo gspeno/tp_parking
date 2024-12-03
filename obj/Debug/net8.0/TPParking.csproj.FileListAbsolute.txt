@@ -1,0 +1,14 @@
+C:\Users\gilda\source\repos\TPParking\bin\Debug\net8.0\TPParking.exe
+C:\Users\gilda\source\repos\TPParking\bin\Debug\net8.0\TPParking.deps.json
+C:\Users\gilda\source\repos\TPParking\bin\Debug\net8.0\TPParking.runtimeconfig.json
+C:\Users\gilda\source\repos\TPParking\bin\Debug\net8.0\TPParking.dll
+C:\Users\gilda\source\repos\TPParking\bin\Debug\net8.0\TPParking.pdb
+C:\Users\gilda\source\repos\TPParking\obj\Debug\net8.0\TPParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gilda\source\repos\TPParking\obj\Debug\net8.0\TPParking.AssemblyInfoInputs.cache
+C:\Users\gilda\source\repos\TPParking\obj\Debug\net8.0\TPParking.AssemblyInfo.cs
+C:\Users\gilda\source\repos\TPParking\obj\Debug\net8.0\TPParking.csproj.CoreCompileInputs.cache
+C:\Users\gilda\source\repos\TPParking\obj\Debug\net8.0\TPParking.dll
+C:\Users\gilda\source\repos\TPParking\obj\Debug\net8.0\refint\TPParking.dll
+C:\Users\gilda\source\repos\TPParking\obj\Debug\net8.0\TPParking.pdb
+C:\Users\gilda\source\repos\TPParking\obj\Debug\net8.0\TPParking.genruntimeconfig.cache
+C:\Users\gilda\source\repos\TPParking\obj\Debug\net8.0\ref\TPParking.dll
